@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.carousel-inner > .carousel-item > img {
+    width: 700px;
+    height: 600px; 
+}
+
+.cor1{
+    color: whitesmoke;
+}
